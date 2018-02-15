@@ -35,7 +35,7 @@ class LeedController extends Controller
 https://docs.google.com/spreadsheets/d/1NAv5ebWxP7QLBvRchf7f54AI3mrf9AePnL6wSaYh-5c/edit?usp=sharing";
 
         $email_sender = 'tpa.opt.tk@gmail.com';
-        $email_pass = 'ixllplazuymrjudw';
+        $email_pass = '********';
         $email_to = 'dripping.me@gmail.com';
 
         $backup = \Mail::getSwiftMailer();
